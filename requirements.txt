@@ -1,0 +1,7 @@
+numpy==1.26.1
+pandas==2.1.2
+streamlit
+pip==23.1.2
+matplotlib
+seaborn
+Babel
